@@ -223,7 +223,6 @@ src="https://github-readme-stats.vercel.app/api?username=karthik-009g&show_icons
 
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g&layout=compact&theme=github_dark"/>
-
 </p>
 
 ---
