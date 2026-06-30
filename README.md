@@ -248,6 +248,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g
 
 🔗 https://github.com/karthik-009g
 
+🔗 https://www.linkedin.com/in/karthik-gubba-521114288
 ---
 
 <div align="center">
