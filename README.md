@@ -18,18 +18,19 @@ Role: AI Engineer
 Education: B.Tech CSE - Data Science
 Location: Hyderabad, India
 
-Currently Learning:
+Current Focus:
+  - Agentic AI
+  - Retrieval Augmented Generation
+  - Semantic Search Systems
+  - Interactive AI Experiences
   - Production AI Engineering
-  - Agentic AI Systems
-  - RAG Architectures
-  - LLMOps
-  - Cloud Deployment
 
 Interests:
-  - Generative AI
-  - Multi-Agent Systems
-  - Interactive 3D Experiences
+  - LLM Systems
+  - AI Agents
+  - RAG Architectures
   - AI Infrastructure
+  - Real-time Interactive Systems
 ```
 
 ---
@@ -46,28 +47,25 @@ Interests:
 
 ## AI / ML
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-red?style=for-the-badge)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
-![DuckDB](https://img.shields.io/badge/DuckDB-yellow?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## Frontend
 
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-black?style=for-the-badge)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 ![ReactThreeFiber](https://img.shields.io/badge/R3F-red?style=for-the-badge)
 
 ---
@@ -76,60 +74,155 @@ Interests:
 
 ## 🌆 GhostCode.AI
 
-> A cinematic cyberpunk AI city built with Next.js, React Three Fiber and custom rendering systems.
+> A cinematic cyberpunk AI city built using Next.js, React Three Fiber, and custom rendering systems.
 
-### Features
+### Highlights
 
-- Procedural city architecture
-- Interactive AI districts
-- Custom rendering pipeline
-- Performance optimization
+- Interactive cyberpunk AI city
+- Custom rendering architecture
+- Scene management systems
+- Performance optimization pipeline
 - Cinematic camera systems
-- Particle simulations
+- Real-time animations
+- Modular component architecture
 
-🔗 Repository:
-https://github.com/karthik-009g/GhostCode.AI
+**Tech Stack**
 
----
-
-## 📊 AskData (Team Project)
-
-> Natural language business intelligence platform for querying databases using AI.
-
-### Contributions
-
-- Backend development
-- AI workflow integration
-- Database interaction
-- Visualization pipeline
-
-🌐 Live:
-https://ask-data-gilt.vercel.app/
+```text
+Next.js
+React Three Fiber
+Three.js
+TypeScript
+TailwindCSS
+Zustand
+```
 
 ---
 
 ## 🤖 ClearHire.AI
 
-> Agentic AI recruitment engine for resume analysis and semantic job matching.
+> AI-powered career intelligence platform using semantic embeddings and job intelligence pipelines.
 
 ### Features
 
-- Resume parsing
-- Semantic embeddings
-- Job ranking
-- AI recommendations
+✅ Resume parsing
+
+✅ Job description analysis
+
+✅ Embedding-based semantic scoring
+
+✅ Resume-job compatibility analysis
+
+✅ Skill gap detection
+
+✅ Personalized recommendation engine
+
+✅ LinkedIn job scraping pipeline
+
+✅ Job ranking and filtering
+
+### Pipeline
+
+```text
+Resume
+   ↓
+Resume Parser
+   ↓
+Embedding Generation
+   ↓
+Job Description Analysis
+   ↓
+Semantic Similarity Scoring
+   ↓
+Skill Gap Detection
+   ↓
+Job Intelligence Pipeline
+   ↓
+Personalized Recommendations
+```
+
+**Tech Stack**
+
+```text
+Python
+FastAPI
+Sentence Embeddings
+Semantic Search
+Web Scraping
+NLP
+```
 
 ---
 
-# 📈 GitHub Stats
+## 📊 AskData (Team Project)
+
+> Natural language business intelligence platform for querying structured data.
+
+### My Contributions
+
+- Frontend development
+- UI component architecture
+- Feature abstraction
+- User workflow simplification
+- Interface optimization
+- User experience improvements
+
+### Responsibilities
+
+```text
+Complex Analytics
+        ↓
+Feature Abstraction
+        ↓
+Simplified UI Components
+        ↓
+Improved User Experience
+```
+
+🌐 Live Demo:
+
+https://ask-data-gilt.vercel.app/
+
+---
+
+## 🏭 Industrial Analytics Pipeline
+
+> Manufacturing analytics pipeline inspired by enterprise business intelligence workflows.
+
+### Features
+
+- ETL pipelines
+- Data transformation
+- Analytics dashboards
+- KPI monitoring
+- Manufacturing insights
+
+---
+
+## 📈 Telecom Customer Churn Prediction
+
+> End-to-end machine learning pipeline for customer churn prediction.
+
+### Features
+
+- Exploratory data analysis
+- Feature engineering
+- Model training
+- Threshold optimization
+- Business metric evaluation
+- Performance analysis
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=karthik-009g&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=karthik-009g&show_icons=true&theme=github_dark"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -138,26 +231,28 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g
 # 🎯 Current Focus
 
 ```text
-✓ Production AI Engineering
 ✓ Agentic AI
 ✓ Retrieval Augmented Generation
-✓ LLMOps
+✓ Semantic Search
+✓ Production AI Engineering
+✓ LLM Systems
 ✓ Interactive AI Experiences
-✓ Cloud Deployment
 ```
 
 ---
 
 # 📫 Connect
 
-- Email: gubbakarthikg@gmail.com
-- GitHub: https://github.com/karthik-009g
-- Location: Hyderabad, India
+📍 Hyderabad, India
+
+📧 gubbakarthikg@gmail.com
+
+🔗 https://github.com/karthik-009g
 
 ---
 
 <div align="center">
 
-### "Build systems you can explain."
+### Build systems you can explain.
 
 </div>
