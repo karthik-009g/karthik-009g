@@ -14,7 +14,7 @@
 
 ```yaml
 Name: Karthik Gubba
-Role: AI Engineer
+Role: AI Engineer/Data Scientist
 Education: B.Tech CSE - Data Science
 Location: Hyderabad, India
 
