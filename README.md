@@ -228,8 +228,11 @@ https://ask-data-gilt.vercel.app/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthik-009g&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g&layout=compact&theme=github_dark&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=karthik-009g&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Karthik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthik-009g&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
