@@ -10,12 +10,12 @@
 
 ---
 
-# 🚀 About Me
+## About Me
 
 ```yaml
 Name: Karthik Gubba
-Role: AI Engineer/Data Scientist
-Education: B.Tech CSE - Data Science
+Role: AI Engineer / Data Scientist
+Education: B.Tech CSE - Data Science (Final Year)
 Location: Hyderabad, India
 
 Current Focus:
@@ -35,42 +35,18 @@ Interests:
 
 ---
 
-# 🛠️ Tech Stack
+## Experience
 
-## Languages
+### AI Developer Intern — VISWAM.AI
+`May 2025 – June 2025`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-
----
-
-## AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- Contributed to **Telugu LLM development** under a research collaboration with **Meta and IIIT Hyderabad**
+- Built NLP pipelines for a low-resource Indian language at production scale
+- Worked on model evaluation, dataset curation, and fine-tuning workflows
 
 ---
 
-## Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## Frontend
-
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-![ReactThreeFiber](https://img.shields.io/badge/R3F-red?style=for-the-badge)
-
----
-
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 ## 🌆 GhostCode.AI
 
@@ -214,7 +190,42 @@ https://ask-data-gilt.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+
+---
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### Frontend
+
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+![ReactThreeFiber](https://img.shields.io/badge/R3F-red?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -227,20 +238,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g
 
 ---
 
-# 🎯 Current Focus
+## 🏅 Certifications
 
-```text
-✓ Agentic AI
-✓ Retrieval Augmented Generation
-✓ Semantic Search
-✓ Production AI Engineering
-✓ LLM Systems
-✓ Interactive AI Experiences
-```
+| Certification | Issuer | Level |
+|---|---|---|
+| SQL | HackerRank | Advanced |
+| Data Analysis with Python | IBM | — |
+| AI / ML | NASSCOM | Gold |
+| Cloud Computing | NASSCOM | Gold |
+| Introduction to LLMs | Google Cloud | — |
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
 📍 Hyderabad, India
 
@@ -249,6 +259,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-009g
 🔗 https://github.com/karthik-009g
 
 🔗 https://www.linkedin.com/in/karthik-gubba-521114288
+
 ---
 
 <div align="center">
