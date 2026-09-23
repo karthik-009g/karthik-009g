@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Karthik Gubba
+# Hey, I'm Karthik Gubba
 
-### AI Engineer • Agentic AI • RAG Systems • Interactive AI Experiences
+### I build AI systems — agentic workflows, RAG pipelines, and things that are fun to look at
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems;Designing+Agentic+Workflows;Creating+Interactive+AI+Experiences;Learning+LLMOps+and+AI+Infrastructure" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems;Designing+Agentic+Workflows;Creating+Interactive+AI+Experiences;Learning+LLMOps+and+AI+Infrastructure)
 
 </div>
 
 ---
 
-## About Me
+## Who I am
 
 ```yaml
 Name: Karthik Gubba
@@ -18,14 +18,14 @@ Role: AI Engineer / Data Scientist
 Education: B.Tech CSE - Data Science (Final Year)
 Location: Hyderabad, India
 
-Current Focus:
+What I'm focused on right now:
   - Agentic AI
   - Retrieval Augmented Generation
   - Semantic Search Systems
   - Interactive AI Experiences
   - Production AI Engineering
 
-Interests:
+Things that genuinely interest me:
   - LLM Systems
   - AI Agents
   - RAG Architectures
@@ -40,19 +40,19 @@ Interests:
 ### AI Developer Intern — VISWAM.AI
 `May 2025 – June 2025`
 
-- Contributed to **Telugu LLM development** under a research collaboration with **Meta and IIIT Hyderabad**
+- Worked on **Telugu LLM development** — part of a research collab with **Meta and IIIT Hyderabad**
 - Built NLP pipelines for a low-resource Indian language at production scale
-- Worked on model evaluation, dataset curation, and fine-tuning workflows
+- Handled model evaluation, dataset curation, and fine-tuning workflows
 
 ---
 
-## ⭐ Featured Projects
+## Projects I've built
 
 ## 🌆 GhostCode.AI
 
-> A cinematic cyberpunk AI city built using Next.js, React Three Fiber, and custom rendering systems.
+> A 3D cyberpunk AI city — built with Next.js, React Three Fiber, and custom rendering systems. Probably the most fun I've had writing code.
 
-### Highlights
+### What went into it
 
 - Interactive cyberpunk AI city
 - Custom rendering architecture
@@ -62,7 +62,7 @@ Interests:
 - Real-time animations
 - Modular component architecture
 
-**Tech Stack**
+**Stack**
 
 ```text
 Next.js
@@ -77,27 +77,20 @@ Zustand
 
 ## 🤖 ClearHire.AI
 
-> AI-powered career intelligence platform using semantic embeddings and job intelligence pipelines.
+> Resume intelligence platform — semantic embeddings, job matching pipelines, and actual gap detection. Not just keyword matching.
 
-### Features
+### What it does
 
-✅ Resume parsing
+✅ Resume parsing  
+✅ Job description analysis  
+✅ Embedding-based semantic scoring  
+✅ Resume-job compatibility analysis  
+✅ Skill gap detection  
+✅ Personalized recommendation engine  
+✅ LinkedIn job scraping pipeline  
+✅ Job ranking and filtering  
 
-✅ Job description analysis
-
-✅ Embedding-based semantic scoring
-
-✅ Resume-job compatibility analysis
-
-✅ Skill gap detection
-
-✅ Personalized recommendation engine
-
-✅ LinkedIn job scraping pipeline
-
-✅ Job ranking and filtering
-
-### Pipeline
+### How it works
 
 ```text
 Resume
@@ -117,7 +110,7 @@ Job Intelligence Pipeline
 Personalized Recommendations
 ```
 
-**Tech Stack**
+**Stack**
 
 ```text
 Python
@@ -132,18 +125,18 @@ NLP
 
 ## 📊 AskData (Team Project)
 
-> Natural language business intelligence platform for querying structured data.
+> Natural language → SQL for business intelligence. I owned the frontend and made complex analytics actually usable.
 
-### My Contributions
+### My side of it
 
 - Frontend development
 - UI component architecture
 - Feature abstraction
 - User workflow simplification
 - Interface optimization
-- User experience improvements
+- UX improvements
 
-### Responsibilities
+### The flow I was responsible for
 
 ```text
 Complex Analytics
@@ -155,31 +148,14 @@ Simplified UI Components
 Improved User Experience
 ```
 
-🌐 Live Demo:
+🌐 Live: https://ask-data-gilt.vercel.app/
 
-https://ask-data-gilt.vercel.app/
-
----
-
-## 🏭 Industrial Analytics Pipeline
-
-> Manufacturing analytics pipeline inspired by enterprise business intelligence workflows.
-
-### Features
-
-- ETL pipelines
-- Data transformation
-- Analytics dashboards
-- KPI monitoring
-- Manufacturing insights
-
----
 
 ## 📈 Telecom Customer Churn Prediction
 
-> End-to-end machine learning pipeline for customer churn prediction.
+> End-to-end ML pipeline for churn prediction. Built it properly — not just model training.
 
-### Features
+### What's in it
 
 - Exploratory data analysis
 - Feature engineering
@@ -190,7 +166,7 @@ https://ask-data-gilt.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## Stack I work with
 
 ### Languages
 
@@ -237,7 +213,7 @@ https://ask-data-gilt.vercel.app/
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certification | Issuer | Level |
 |---|---|---|
@@ -249,15 +225,12 @@ https://ask-data-gilt.vercel.app/
 
 ---
 
-## 📫 Connect
+## Reach me
 
-📍 Hyderabad, India
-
-📧 gubbakarthikg@gmail.com
-
-🔗 https://github.com/karthik-009g
-
-🔗 https://www.linkedin.com/in/karthik-gubba-521114288
+📍 Hyderabad, India  
+📧 gubbakarthikg@gmail.com  
+🔗 https://github.com/karthik-009g  
+🔗 https://www.linkedin.com/in/karthik-gubba-521114288  
 
 ---
 
